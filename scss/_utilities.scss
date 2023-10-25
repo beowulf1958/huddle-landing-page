@@ -15,6 +15,7 @@
     div:hover {
         border: 2px solid var(--magenta);
         color: var(--magenta);
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     }
 }
 button {
